@@ -6,7 +6,7 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ## 🖼️ Architecture
 
-![Architecture Diagram](/image/ArchitectureDiagram.png)
+![Architecture Diagram](/image/ArchitectureDiagram.png
 
 ---
 
