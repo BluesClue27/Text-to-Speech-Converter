@@ -4,12 +4,6 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ---
 
-## 🚀 Demo
-
-[Click to watch the demo video](/audio/Demo.mp4)
-
----
-
 ## 🧠 Features
 
 - 🎤 Convert any text into natural-sounding speech
