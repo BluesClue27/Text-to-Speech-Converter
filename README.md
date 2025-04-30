@@ -4,12 +4,9 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ---
 
-## 🧠 Features
+## 🖼️ Architecture
 
-- 🎤 Convert any text into natural-sounding speech
-- ☁️ Serverless backend with AWS Lambda
-- 🔊 Audio streamed via S3 with pre-signed URLs
-- 🌐 CORS-enabled for secure frontend-backend communication
+![Architecture Diagram](/image/ArchitectureDiagram.png)
 
 ---
 
@@ -21,8 +18,11 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ---
 
-## 🖼️ Architecture
+## 🧠 Features
 
-![Architecture Diagram](/image/ArchitectureDiagram.png)
+- 🎤 Convert any text into natural-sounding speech
+- ☁️ Serverless backend with AWS Lambda
+- 🔊 Audio streamed via S3 with pre-signed URLs
+- 🌐 CORS-enabled for secure frontend-backend communication
 
 ---
