@@ -6,7 +6,7 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ## 🚀 Demo
 
-<video src="audio/Demo.mp4" controls width="100%" style="max-width: 600px;">
+<video src="/audio/Demo.mp4" controls width="100%" style="max-width: 600px;">
   Your browser does not support the video tag.
 </video>
 
@@ -31,6 +31,6 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ## 🖼️ Architecture
 
-![Architecture Diagram](./image/ArchitectureDiagram.png)
+![Architecture Diagram](/image/ArchitectureDiagram.png)
 
 ---
