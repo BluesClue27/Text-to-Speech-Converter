@@ -12,7 +12,7 @@ A full-stack serverless web app that converts text input into speech using **Ama
 
 ## 🖼️ Preview
 
-![Text to Speech UI Screenshot](/images/preview.png)
+![Text to Speech UI Screenshot](/image/preview.png)
 
 ---
 
